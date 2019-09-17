@@ -325,3 +325,6 @@ grep -H -r ">>>" *
 grep -H -r '^=======$' *Apply một patch không sử dụng git
 patch < file.patch
 ```
+*Tham Khảo*
+[viblo.asia](https://viblo.asia/p/tap-hop-nhung-cau-lenh-git-huu-dung-dWrvwWr2vw38)
+[Github](https://github.com/hocchudong/git-github-for-sysadmin#thetieude)
